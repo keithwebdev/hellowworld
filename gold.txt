@@ -1,0 +1,2 @@
+gold.txt
+i ama gold fish
